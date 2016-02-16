@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gestastephanire01sewegoog_0159.png"; bbox 0 0 3167 5009; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1779 2290 2018 2325">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1779 2290 2018 2325">
+     <span class='ocr_line' id='line_1_1' title="bbox 1779 2290 2018 2325; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1779 2290 1989 2325; x_wconf 78' lang='lat' dir='ltr'>LONDON</span> <span class='ocrx_word' id='word_1_2' title='bbox 2005 2294 2018 2324; x_wconf 71' lang='grc' dir='ltr'>ἓ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1296 2352 2494 2470">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1296 2352 2494 2470">
+     <span class='ocr_line' id='line_1_2' title="bbox 1296 2352 2494 2404; baseline 0 -10"><span class='ocrx_word' id='word_1_3' title='bbox 1296 2352 1465 2394; x_wconf 71' lang='lat' dir='ltr'>Printed</span> <span class='ocrx_word' id='word_1_4' title='bbox 1488 2353 1545 2404; x_wconf 80' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_5' title='bbox 1570 2355 1617 2396; x_wconf 85' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1641 2354 1682 2394; x_wconf 73' lang='grc' dir='ltr'>δι</span> <span class='ocrx_word' id='word_1_7' title='bbox 1706 2355 1750 2395; x_wconf 80' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1777 2355 2020 2404; x_wconf 67' lang='lat' dir='ltr'>Bau-rur,</span> <span class='ocrx_word' id='word_1_9' title='bbox 2045 2355 2262 2402; x_wconf 69' lang='lat' dir='ltr'>Wuson,</span> <span class='ocrx_word' id='word_1_10' title='bbox 2288 2355 2329 2395; x_wconf 73' lang='grc' dir='ltr'>δι</span> <span class='ocrx_word' id='word_1_11' title='bbox 2355 2355 2494 2402; x_wconf 69' lang='lat' dir='ltr'><strong>Fntv,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1593 2421 2202 2470; baseline 0.003 -12"><span class='ocrx_word' id='word_1_12' title='bbox 1593 2421 1760 2470; x_wconf 72' lang='lat' dir='ltr'>Bangor</span> <span class='ocrx_word' id='word_1_13' title='bbox 1778 2421 1935 2468; x_wconf 72' lang='lat' dir='ltr'>Home,</span> <span class='ocrx_word' id='word_1_14' title='bbox 1950 2421 2058 2460; x_wconf 79' lang='lat' dir='ltr'>Shoe</span> <span class='ocrx_word' id='word_1_15' title='bbox 2077 2422 2202 2460; x_wconf 69' lang='lat' dir='ltr'>uno.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
